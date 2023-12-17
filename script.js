@@ -12,7 +12,7 @@ const extendHex = (shortHex) => {
         i++;
     }
     return isupper ? res.toUpperCase() : res;
-};
+
 };
 
 // Do not change the code below.
